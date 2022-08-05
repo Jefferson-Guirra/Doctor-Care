@@ -5,7 +5,19 @@
 <img src="Assets/doctor-care-read-me.JPG" alt="Doctor Care">
 
 > Landing page criada simulando um clínica de marcação de exames, neste projeto foi utilizado JavaScript para reatividade, HTML para marcação de texto, Css para dar estilo a página e uma Biblioteca para animção ao scroll ( ScrollReveal ).
+<br>
+## 📚 Seções
 
+O site é composto por cinco seções:
+
+- **Home:** Nele temos uma breve apresentação;
+- **Serviços:** Nessa seção temos os serviços prestados pela clínica;
+- **Sobre:** Apresenta a origem e finalidade da clínica;
+- **Agenda:** É nesta seção que se encontra o contato para marcação de exames;
+
+
+---
+<br>
 ### Ajustes e melhorias
 
 O projeto foi concluído e todas as tarefas finalizadas:
