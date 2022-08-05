@@ -7,6 +7,7 @@
 > Landing page criada simulando um clínica de marcação de exames, neste projeto foi utilizado JavaScript para reatividade, HTML para marcação de texto, Css para dar estilo a página e uma Biblioteca para animção ao scroll ( ScrollReveal ).
 <br>
 
+<h4 align="center"><a href="https://doctor-care-clinica.netlify.app/">Clique para visitar o projeto</a></h4>
 
 ## 📚 Seções
 
