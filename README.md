@@ -11,7 +11,7 @@
 
 ## 📚 Seções
 
-O site é composto por cinco seções:
+O site é composto por quatro seções:
 
 - **Home:** Nele temos uma breve apresentação;
 - **Serviços:** Nessa seção temos os serviços prestados pela clínica;
