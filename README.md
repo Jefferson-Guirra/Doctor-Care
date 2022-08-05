@@ -8,7 +8,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="Assets/doctor-care-read-me.JPG" alt="Doctor Care">
 
 > Landing page criada simulando um clínica de marcação de exames, neste projeto foi utilizado JavaScript para reatividade, HTML para marcação de texto, Css para dar estilo a página e uma Biblioteca para animção ao scroll ( ScrollReveal ).
 
