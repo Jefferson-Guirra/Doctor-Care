@@ -20,6 +20,8 @@ O site é composto por cinco seções:
 
 ---
 <br>
+
+
 ### Ajustes e melhorias
 
 O projeto foi concluído e todas as tarefas finalizadas:
