@@ -10,8 +10,7 @@
 
 <img src="exemplo-image.png" alt="exemplo imagem">
 
-> Landing page criada simulando um clínica de marcação de exames, neste projeto foi utilizado JavaScript para reatividade, HTML para marcação de texto, Css para dar estilo a página <br>
-e uma Biblioteca para animção ao scroll ( ScrollReveal )
+> Landing page criada simulando um clínica de marcação de exames, neste projeto foi utilizado JavaScript para reatividade, HTML para marcação de texto, Css para dar estilo a página e uma Biblioteca para animção ao scroll ( ScrollReveal ).
 
 ### Ajustes e melhorias
 
