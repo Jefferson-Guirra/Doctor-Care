@@ -2,15 +2,26 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
-
 <img src="Assets/doctor-care-read-me.JPG" alt="Doctor Care">
 
 > Landing page criada simulando um clínica de marcação de exames, neste projeto foi utilizado JavaScript para reatividade, HTML para marcação de texto, Css para dar estilo a página e uma Biblioteca para animção ao scroll ( ScrollReveal ).
+<br>
+
+<h4 align="center"><a href="https://doctor-care-clinica.netlify.app/">Clique para visitar o projeto</a></h4>
+
+## 📚 Seções
+
+O site é composto por quatro seções:
+
+- **Home:** Nele temos uma breve apresentação;
+- **Serviços:** Nessa seção temos os serviços prestados pela clínica;
+- **Sobre:** Apresenta a origem e finalidade da clínica;
+- **Agenda:** É nesta seção que se encontra o contato para marcação de exames;
+
+
+---
+<br>
+
 
 ### Ajustes e melhorias
 
