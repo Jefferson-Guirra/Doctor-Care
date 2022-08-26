@@ -4,7 +4,7 @@
 
 <img src="Assets/doctor-care-read-me.JPG" alt="Doctor Care">
 
-> Landing page criada simulando um clínica de marcação de exames, neste projeto foi u.
+> Landing page criada simulando um clínica de marcação de exames.
 <br>
 
 <h4 align="center"><a href="https://doctor-care-clinica.netlify.app/">Clique para visitar o projeto</a></h4>
