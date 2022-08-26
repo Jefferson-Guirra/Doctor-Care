@@ -4,7 +4,7 @@
 
 <img src="Assets/doctor-care-read-me.JPG" alt="Doctor Care">
 
-> Landing page criada simulando um clínica de marcação de exames, neste projeto foi utilizado JavaScript para reatividade, HTML para marcação de texto, Css para dar estilo a página e uma Biblioteca para animção ao scroll ( ScrollReveal ).
+> Landing page criada simulando um clínica de marcação de exames, neste projeto foi u.
 <br>
 
 <h4 align="center"><a href="https://doctor-care-clinica.netlify.app/">Clique para visitar o projeto</a></h4>
@@ -20,7 +20,16 @@ O site é composto por quatro seções:
 
 
 ---
-<br>
+
+## 🚀  Ferramentas usadas:
+
+O projeto visou o  aprendizado da semântica da linguagem de Marcação de Hipertexto, foi usado JavaScript para reatividade, HTML para marcação de texto, Css para dar estilo a página e uma Biblioteca para animção ao scroll ( ScrollReveal ).
+
+- HTML;
+- Css;
+- JavaScript;
+
+---
 
 
 ### Ajustes e melhorias
